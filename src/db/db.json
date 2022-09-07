@@ -1,0 +1,82 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "email": "nani@hotmail.com",
+      "name": "nani",
+      "pass": "Ojas"
+    },
+    {
+      "id": 2,
+      "email": "chintu@gmail.com",
+      "pass": "Lenovo"
+    },
+    {
+      "id": 3,
+      "email": "merugu@hotmail.com",
+      "name": "merugu",
+      "pass": "Ojas"
+    },
+    {
+      "id": 4,
+      "email": "abc@gmail.com",
+      "pass": "nani123"
+    },
+    {
+      "email": "shiva@gmail.com",
+      "name": "shiva",
+      "pass": "ssreddy",
+      "cpass": "ssreddy",
+      "id": 5
+    },
+    {
+      "email": "harikrishana@gmail.com",
+      "name": "hari",
+      "pass": "krishna",
+      "cpass": "krishna",
+      "id": 6
+    },
+    {
+      "email": "manmadha@gmail.com",
+      "name": "manmadha",
+      "pass": "manu",
+      "cpass": "manu",
+      "id": 7
+    },
+    {
+      "2": "",
+      "id": 8
+    },
+    {
+      "5": "",
+      "id": 9
+    },
+    {
+      "5": "",
+      "id": 10
+    },
+    {
+      "5": "",
+      "id": 11
+    },
+    {
+      "5": "",
+      "id": 12
+    },
+    {
+      "5": "",
+      "id": 13
+    },
+    {
+      "5": "",
+      "id": 14
+    },
+    {
+      "email": "ram@gmail.com",
+      "name": "Mouli",
+      "pass": "ram@123",
+      "cpass": "ram@123",
+      "id": 15
+    }
+  ]
+}

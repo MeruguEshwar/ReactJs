@@ -1,0 +1,50 @@
+#registercard {
+  margin-top: 50px;
+  margin-left: 300px;
+}
+
+#logincard {
+  margin-top: 130px;
+  margin-left: 300px;
+}
+
+#imagecard {
+  height: 300px;
+  width: 360px;
+}
+
+.card {
+  cursor: pointer;
+}
+
+#demo {
+  max-width: 900px;
+  max-height: 900px;
+  margin-left: -70px;
+}
+
+#forgotcard{
+  margin-top: 150px;
+  margin-left: 300px;
+}
+
+#forgotAuth{
+  margin-left: 550px;
+  margin-top: 100px;
+}
+
+
+nav{
+  background: rgb(193,200,228);
+  background: linear-gradient(90deg, rgba(193,200,228,1) 0%, rgba(132,206,235,1) 50%, rgba(136,96,208,1) 100%);
+}
+
+.card-header{
+  background: rgb(193,200,228);
+  background: linear-gradient(90deg, rgba(193,200,228,1) 0%, rgba(132,206,235,1) 50%, rgba(136,96,208,1) 100%);
+}
+
+.card-footer{
+  background: rgb(193,200,228);
+  background: linear-gradient(90deg, rgba(193,200,228,1) 0%, rgba(132,206,235,1) 50%, rgba(136,96,208,1) 100%);
+}
